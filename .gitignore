@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (contains secrets)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Test files
+test_files/
+
+# User-specific data
+upload_failures.json
+
+# Claude logs
+.claude/
+

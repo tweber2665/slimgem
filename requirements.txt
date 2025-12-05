@@ -1,0 +1,8 @@
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+
+# Metadata extraction
+PyMuPDF>=1.23.0
+python-docx>=1.0.0
+python-pptx>=0.6.0
